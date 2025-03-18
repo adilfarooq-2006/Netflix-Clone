@@ -6,3 +6,6 @@ This is a simple Netflix Clone built using pure HTML and CSS. It was one of my f
 # Technologies Used
 - HTML
 - CSS
+# Link
+You can view the website at:
+https://sabflixclonedby-adilfarooq-2006.netlify.app/
